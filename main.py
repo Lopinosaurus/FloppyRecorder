@@ -14,7 +14,7 @@ client = discord.Client(intents=intents)
 @client.event
 async def on_ready():
     print(f'{client.user.name} has connected !')
-    await client.change_presence(activity = discord.Game(name="Centralised Logger Bot"))
+    await client.change_presence(activity = discord.Game(name="Centralized Logger Bot"))
     log_channel = client.get_channel(int(os.getenv('LOG')))
     print ("Admin Server : " + log_channel.guild.name)
 
