@@ -3,7 +3,6 @@ import os
 import discord
 from dotenv import load_dotenv
 from discord.ext import tasks
-import json
 
 load_dotenv()
 TOKEN = os.getenv('TOKEN')
