@@ -60,16 +60,12 @@ First, clone this repository by running into your Shell or Git Bash :
 ```
 git clone git@github.com:Lopinosaurus/FloppyRecorder.git
 ```
-You can now install the requirements for python with : 
+You can now install the requirements for python by running : 
 ```
-pip install -r requirements.txt
+python3 pip install -r requirements.txt
 ```
-or
-```
-py -3 -U pip install -r requirements.txt
-```
-On Windows systems.
-                                
+in your terminal.   
+
 You can now setup your bot by modifying the `.env` file : 
 The `TOKEN` field should be filled with your bot's token.
 The `LOG` field should be filled with the channel ID of your log channel (where the bot is supposed to write the logs).
