@@ -38,7 +38,7 @@
 
 ## About The Project
 
-FloppyRecorder is a Discord Bot allowing you to centralize your multiple server logs on a unique channel. Thanks to this, you will be able to manage all of your communities in a better and easier way, as the bot record a lot of server and member actions.
+FloppyRecorder is a Discord Bot allowing you to centralize your multiple server logs on a unique channel. Thanks to this, you will be able to manage all of your communities in a better and easier way, as the bot record a lot of events among all of your servers.
 
 
 
