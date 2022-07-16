@@ -62,7 +62,7 @@ git clone git@github.com:Lopinosaurus/FloppyRecorder.git
 ```
 You can now install the requirements for python by running : 
 ```
-python3 pip install -r requirements.txt
+python3 -m pip install -r requirements.txt
 ```
 in your terminal.   
 
