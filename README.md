@@ -71,6 +71,8 @@ The `TOKEN` field should be filled with your bot's token.
 The `LOG` field should be filled with the channel ID of your log channel (where the bot is supposed to write the logs).
 The `ADMIN` field should be filled with the ID of the administrator role on the log server (where the log channel is located).
 
+Do not forget to give the bot all intends permissions, or it will not be able to log all events featured.
+
 Now you should be able to start the bot by running in your shell : 
 ```
 python3 main.py
